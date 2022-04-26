@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @russellfromup
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-russellfromup/russellfromup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  Hi, I’m Francisco!
+-  Seattle Seahawks and Washington Wizards fan
+-  Marketing Major at Indiana University's Kelley School of Business
+-  Looking for internships 
+-  Instagram: https://www.instagram.com/franciyang
+-  LinkedIn: https://www.linkedin.com/in/franciscoyang/
