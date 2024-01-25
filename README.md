@@ -3,4 +3,4 @@
 -  Looking for internships 
 -  LinkedIn: https://www.linkedin.com/in/franciscoyang/
 LOADING: Python, R, SQL, Tableau
-NEXT: Jupyter, pandas, NumPy, Pyspark, REST API
+NEXT: Jupyter, pandas, NumPy, Pyspark, REST API, AWS
