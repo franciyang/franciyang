@@ -2,5 +2,5 @@
 -  Information Systems and Business Analytics Majors at Indiana University's Kelley School of Business
 -  Looking for internships 
 -  LinkedIn: https://www.linkedin.com/in/franciscoyang/
--  IN PROGRESS: Java, Python, R, SQL, Tableau
--  NEXT: Jupyter, pandas, NumPy, Pyspark, REST API, AWS
+-  IN PROGRESS: Java, Python, SQL
+-  NEXT: HTML, CSS, Javascript, Spring, SpringBoot, REST APIs, AWS
