@@ -1,6 +1,6 @@
 -  Hi, I’m Francisco!
 -  Information Systems and Business Analytics Majors at Indiana University's Kelley School of Business
--  Looking for internships 
+-  Looking for full time job related to SWE, Tech Consulting, Business Tech/Analytics
 -  LinkedIn: https://www.linkedin.com/in/franciscoyang/
 -  IN PROGRESS: Java, Spring/SpringBoot, REST APIs, Python, SQL
 -  NEXT: HTML, CSS, Javascript, Nodejs/Reactjs, AWS
