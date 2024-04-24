@@ -2,5 +2,5 @@
 -  Information Systems and Business Analytics Majors at Indiana University's Kelley School of Business
 -  Looking for internships 
 -  LinkedIn: https://www.linkedin.com/in/franciscoyang/
--  IN PROGRESS: Java, Spring, SpringBoot, REST APIs, Python, SQL
+-  IN PROGRESS: Java, Spring/SpringBoot, REST APIs, Python, SQL
 -  NEXT: HTML, CSS, Javascript, Nodejs/Reactjs, AWS
