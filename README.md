@@ -1,6 +1,6 @@
 -  Hi, I’m Francisco!
 -  Information Systems and Business Analytics Majors at Indiana University's Kelley School of Business
--  Looking for full time job related to SWE, Tech Consulting, Business Tech/Analytics
+-  Data Engineering, Data Products, Business Tech/Analytics
 -  LinkedIn: https://www.linkedin.com/in/franciscoyang/
 -  IN PROGRESS: Java, Python, SQL, VBA
 -  NEXT: AWS/Azure, Relational Database, ETL
