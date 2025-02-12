@@ -1,6 +1,6 @@
 -  Hi, I’m Francisco!
 -  Information Systems and Business Analytics at Indiana University's Kelley School of Business
--  Data Engineering, Data Products, Business Tech/Analytics
+-  Data Engineering, Product Management, Business Tech/Analytics
 -  LinkedIn: https://www.linkedin.com/in/franciscoyang/
 -  IN PROGRESS: Java, Python, SQL, VBA
 -  NEXT: AWS/Azure, Relational Database, ETL
